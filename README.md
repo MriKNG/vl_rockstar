@@ -25,6 +25,6 @@ Edit of the original resource by [Nads-Development](https://github.com/Nads-Deve
 ![Config](https://cdn.discordapp.com/attachments/1327681775689924680/1349568715200659658/image.png?ex=67d3934f&is=67d241cf&hm=5d3208d433074601e2193c729964e8a01d8ca4787dcd204015ef43a42db3c44b&)
 
 ## Contributions
-- **Nads-Development** - [Original Resource](https://github.com/Nads-Development/nad_rockstar)
-- **KNG** - [ox_lib Context Menu / Notifications Edit](https://github.com/MriKNG/vl_rockstar)
+**Nads-Development** - [Original Resource](https://github.com/Nads-Development/nad_rockstar)
+// **KNG** - [ox_lib Context Menu / Notifications Edit](https://github.com/MriKNG/vl_rockstar)
 </div>
