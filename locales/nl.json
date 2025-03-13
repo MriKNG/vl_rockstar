@@ -1,0 +1,22 @@
+{
+    "notify": {
+        "record_title": "Rockstar Editor",
+        "record_desc": "Opnemen van videoclip gestart",
+        "saveclip_title": "Rockstar Editor",
+        "saveclip_desc": "Huidige videoclip opgeslagen",
+        "deleteclip_title": "Rockstar Editor",
+        "deleteclip_desc": "Huidige videoclip verwijderd"
+    },
+    
+    "menu": {
+        "main_title": "Rockstar Editor Menu",
+        "record_title": "Opnemen",
+        "record_desc": "Start met het opnemen van een nieuwe videoclip",
+        "saveclip_title": "Opslaan",
+        "saveclip_desc": "Sla de huidige videoclip op",
+        "deleteclip_title": "Verwijder",
+        "deleteclip_desc": "Verwijder de huidige videoclip",
+        "close_title": "Sluiten",
+        "close_desc": "Sluit het menu af"
+    }
+}
