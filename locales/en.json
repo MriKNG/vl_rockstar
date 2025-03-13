@@ -1,0 +1,22 @@
+{
+    "notify": {
+        "record_title": "Rockstar Editor",
+        "record_desc": "Started recording a new clip",
+        "saveclip_title": "Rockstar Editor",
+        "saveclip_desc": "Saved current clip to library",
+        "deleteclip_title": "Rockstar Editor",
+        "deleteclip_desc": "Deleted current clip"
+    },
+    
+    "menu": {
+        "main_title": "Rockstar Editor Menu",
+        "record_title": "Record",
+        "record_desc": "Start recording a new clip",
+        "saveclip_title": "Save Clip",
+        "saveclip_desc": "Save current clip to library",
+        "deleteclip_title": "Delete Clip",
+        "deleteclip_desc": "Discard and delete the current clip",
+        "close_title": "Exit",
+        "close_desc": "Close and exit the menu"
+    }
+}
