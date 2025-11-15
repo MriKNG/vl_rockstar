@@ -8,7 +8,7 @@
   <p align="center">
     <a href="https://github.com/Nads-Development/nad_rockstar">Original Creator</a>
     |
-    <a href="https://discord.gg/playliberty">Discord</a>
+    <a href="https://discord.gg/BQRdM5u7dK">Discord</a>
   </p>
 </div>
 <div align="center">
