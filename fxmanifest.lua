@@ -8,7 +8,7 @@ description 'A resource utilizing ox_lib context menu for enabling Rockstar Edit
 --repository 'https://github.com/Nads-Development/nad_rockstar' <-- Original
 
 author 'KNG'
-version '1.0.1'
+version '1.0.0'
 repository 'https://github.com/MriKNG/vl_rockstar'
 
 shared_scripts {
