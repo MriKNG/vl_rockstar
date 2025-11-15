@@ -17,7 +17,7 @@
 Edit of the original resource by [Nads-Development](https://github.com/Nads-Development/nad_rockstar), utilizing ox_lib context menu and notifications, giving it a modern, clean UI look for servers already utlizing or looking to use ox_lib.
 
 ## Dependencies
-[ox_lib](https://github.com/overextended/ox_lib) - by overextemded
+[ox_lib](https://github.com/overextended/ox_lib) - by overextended
 
 ## Rockstar Editor Menu
 ![Menu](https://i.imgur.com/JjMTpTe.png)
