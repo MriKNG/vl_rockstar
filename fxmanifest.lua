@@ -1,5 +1,6 @@
 fx_version 'cerulean'
 game 'gta5'
+
 name 'vl_rockstar'
 description 'A resource utilizing ox_lib context menu for enabling Rockstar Editor functionalities'
 
